@@ -1,6 +1,6 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=print(%22Hello%2C%20World!%22);小木同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 **xiaomu-source/xiaomu-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://camo.githubusercontent.com/c31248d607b3c8fe3175a3b6ca8d8f297ec4e2ce91daefa658ab2c34982890ea/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f636f64696e672e676966" data-canonical-src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" style="visibility:visible;max-width:100%;">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
