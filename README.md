@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
@@ -9,7 +10,9 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <div align="center"><img src="https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/github-contribution-grid-snake.svg" /></div>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
@@ -45,7 +48,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是小木同学。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱编程、读书、旅行、沙盒游戏。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
