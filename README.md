@@ -92,22 +92,6 @@
 
 <tr><td>
 
-### 🧠 Second Brain
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/images/technologist.png" />
-
-<!-- START_SECTION:brain -->
-* <a href='https://brain.sunguoqi.com/ai/basic/test.html' target='_blank'>前言</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/dv/foreword/about.html' target='_blank'>我与数据可视化</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/en/advanced-guide/test.html' target='_blank'>前言</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/en/basic/test.html' target='_blank'>前言</a> - 2023-10-31
-* <a href='https://brain.sunguoqi.com/en/programmer-english/test.html' target='_blank'>前言</a> - 2023-10-31
-<!-- END_SECTION:brain -->
-
-</td></tr>
-
-<tr><td>
-
 ### 🤾‍♂️ Funny Soul
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/images/artist.png" />
@@ -170,8 +154,8 @@ Sunday                   279 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   20 hrs 53 mins      ████████████████░░░░░░░░░   63.23 % 
-YAML                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Python                   20 hrs 53 mins      ████████████████░░░░░░░░░   63.23 % 
+Vue.js                     3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
 TypeScript               1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 Markdown                 1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
