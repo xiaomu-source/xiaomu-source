@@ -9,8 +9,7 @@
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    ![暗色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-dark-mode-only)
-    ![亮色](https://raw.githubusercontent.com/zhoufanglu/githubSNK/df18a4a2fb544d5fc0e692f98c3436e9dccaa547/github-contribution-grid-snake.svg#gh-light-mode-only)
+    <div align="center"><img src="https://cdn.jsdelivr.net/gh/xiaomu-source/xiaomu-source/assets/github-contribution-grid-snake.svg" /></div>
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
